@@ -21,14 +21,14 @@
 include:
   - board: seeeduino_xiao_ble
     shield: settings_reset
-    artifact-name: totem_seeeduino_settings_reset
+    artifact-name: totem-seeeduino-settings-reset
   - board: seeeduino_xiao_ble
     shield: totem_left
     snippet: studio-rpc-usb-uart
-    artifact-name: totem_left_with_studio
+    artifact-name: totem-left-with-studio-qwerty
     # cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
   - board: seeeduino_xiao_ble
     shield: totem_right
     snippet: studio-rpc-usb-uart
-    artifact-name: totem_right_with_studio
+    artifact-name: totem-right-with-studio-qwerty
     # cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
