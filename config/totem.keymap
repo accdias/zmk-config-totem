@@ -95,7 +95,7 @@
                   &trans     &kp DEL     &kp PG_UP   &kp CAPS    &kp PG_DN   &kp LPAR     &kp RPAR    &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp KP_MULTIPLY  &trans
             // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             //                                     ┃           ┃           ┃           ┃┃ LAYER 3   ┃ 0         ┃           ┃
-                                                     &trans      &trans      &trans       &mo ADJ     kp KP_N0    &trans
+                                                     &trans      &trans      &trans       &mo ADJ     &kp KP_N0   &trans
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             >;
         };
