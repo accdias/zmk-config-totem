@@ -60,7 +60,7 @@
     //};
 
     keymap {
-        compatible = "zmk,keymap,behavior-studio-unlock";
+        compatible = "zmk,keymap";
 
         base_layer {
             label = "BASE";
