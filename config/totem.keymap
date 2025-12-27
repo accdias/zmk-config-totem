@@ -72,7 +72,7 @@
             //             ┃ A         ┃ R         ┃ S         ┃ T         ┃ G         ┃┃ M         ┃ N         ┃ E         ┃ I         ┃ O         ┃
                              &mt LGUI A  &mt LALT R  &mt LSHFT S &mt LCTRL T &kp G        &kp M       &mt RCTRL N &mt RSHFT E &mt RALT I  &mt RGUI O
             // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
-            // ┃ ESC       ┃ Z         ┃ X         ┃ C         ┃ D         ┃ V         ┃┃ K         ┃ H         ┃     ,     ┃ .         ┃ /         ┃ '         ┃
+            // ┃ ESC       ┃ Z         ┃ X         ┃ C         ┃ D         ┃ V         ┃┃ K         ┃ H         ┃ ,         ┃ .         ┃ /         ┃ '         ┃
                  &kp ESC     &kp Z       &kp X       &kp C       &kp D       &kp V        &kp K       &kp H       &kp COMMA   &kp DOT     &kp SLASH   &kp SINGLE_QUOTE
             // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             //                                     ┃ INS       ┃ LAYER 1   ┃ SPC       ┃┃ ENTER     ┃ LAYER 2   ┃ BSPC      ┃
