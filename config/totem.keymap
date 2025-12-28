@@ -39,36 +39,36 @@
         // Braces {}
         combo_lbrc {
             timeout-ms = <50>;
-            key-position = <4 5>;
+            key-positions = <4 5>;
             bindings = <&kp LBRC>;
         };
         combo_rbrc {
             timeout-ms = <50>;
-            key-position = <6 7>;
+            key-positions = <6 7>;
             bindings = <&kp RBRC>;
         };
 
         // Parenthesis ()
         combo_lpar {
             timeout-ms = <50>;
-            key-position = <15 16>;
+            key-positions = <15 16>;
             bindings = <&kp LPAR>;
         };
         combo_rpar {
             timeout-ms = <50>;
-            key-position = <17 18>;
+            key-positions = <17 18>;
             bindings = <&kp RPAR>;
         };
 
         // Brackets []
         combo_lpar {
             timeout-ms = <50>;
-            key-position = <25 26>;
+            key-positions = <25 26>;
             bindings = <&kp LPAR>;
         };
         combo_rpar {
             timeout-ms = <50>;
-            key-position = <27 28>;
+            key-positions = <27 28>;
             bindings = <&kp RPAR>;
         };
 
