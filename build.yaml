@@ -20,15 +20,8 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: settings_reset
-    artifact-name: totem-seeeduino-setting-reset
-  - board: seeeduino_xiao_ble
     shield: totem_left
-    snippet: studio-rpc-usb-uart
-    artifact-name: totem-left-with-studio-colemak-dh
-    # cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
+    artifact-name: totem-left-colemak-dh
   - board: seeeduino_xiao_ble
     shield: totem_right
-    snippet: studio-rpc-usb-uart
-    artifact-name: totem-right-with-studio-colemak-dh
-    # cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
+    artifact-name: totem-right-colemak-dh
